@@ -98,7 +98,6 @@ Focused on what's actually available and relevant if you live in Connecticut, Ma
 ## Jobs
 
 - [Acadia Center Jobs](https://acadiacenter.org/about/employment/) - Policy, research, and outreach roles at a leading Northeast clean energy nonprofit.
-- [ClimateCareer.us](https://climatecareer.us/) - Job board focused on climate and clean energy roles, many in the Northeast.
 - [Green Jobs Network](https://www.greenjobs.net/) - Broad green job board covering sustainability roles across all sectors in the US.
 - [MassCEC Jobs](https://www.masscec.com/jobs) - Job listings at the Massachusetts Clean Energy Center and its partner companies.
 - [NYSERDA Careers](https://www.nyserda.ny.gov/About/Careers) - Roles at New York's energy research and development authority.
